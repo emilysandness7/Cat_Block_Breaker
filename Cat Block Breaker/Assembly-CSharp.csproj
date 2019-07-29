@@ -61,6 +61,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Ball.cs" />
     <Compile Include="Assets\Scripts\LoseCollider.cs" />
     <Compile Include="Assets\Scripts\Paddle.cs" />
     <Compile Include="Assets\Scripts\SceneLoader.cs" />
@@ -119,16 +120,16 @@
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>C:/Users/Emiily/Documents/Unity/2D_Game_Development_Course/Cat Block Breaker/Cat Block Breaker/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/Emiily/Documents/Unity/2D_Game_Development_Course/Cat_Block_Breaker/Cat Block Breaker/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/Emiily/Documents/Unity/2D_Game_Development_Course/Cat Block Breaker/Cat Block Breaker/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/Emiily/Documents/Unity/2D_Game_Development_Course/Cat_Block_Breaker/Cat Block Breaker/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/Emiily/Documents/Unity/2D_Game_Development_Course/Cat Block Breaker/Cat Block Breaker/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/Emiily/Documents/Unity/2D_Game_Development_Course/Cat_Block_Breaker/Cat Block Breaker/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/Emiily/Documents/Unity/2D_Game_Development_Course/Cat Block Breaker/Cat Block Breaker/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/Emiily/Documents/Unity/2D_Game_Development_Course/Cat_Block_Breaker/Cat Block Breaker/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>D:/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
